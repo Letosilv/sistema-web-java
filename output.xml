@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3 (Python 3.13.1 on win32)" generated="2025-06-15T11:58:59.665981" rpa="false" schemaversion="5">
+<suite id="s1" name="Tests" source="C:\Users\welli\Downloads\sistema-web-java\robot\tests">
+<suite id="s1-s1" name="Tests Usuario Api" source="C:\Users\welli\Downloads\sistema-web-java\robot\tests\tests_usuario_api.robot">
+<test id="s1-s1-t1" name="Testar Caminho do Resource" line="5">
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-06-15T11:59:00.322180" level="INFO">Sucesso! O caminho está correto.</msg>
+<arg>Sucesso! O caminho está correto.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-06-15T11:59:00.321959" elapsed="0.000303"/>
+</kw>
+<status status="PASS" start="2025-06-15T11:59:00.320766" elapsed="0.001788"/>
+</test>
+<status status="PASS" start="2025-06-15T11:58:59.703428" elapsed="0.619674"/>
+</suite>
+<status status="PASS" start="2025-06-15T11:58:59.667697" elapsed="0.655951"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Tests" id="s1" pass="1" fail="0" skip="0">Tests</stat>
+<stat name="Tests Usuario Api" id="s1-s1" pass="1" fail="0" skip="0">Tests.Tests Usuario Api</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
